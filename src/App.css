@@ -1,0 +1,24 @@
+
+@media only screen and (max-width: 768px){
+  #banner{
+    background-position: center;
+    
+  }
+}
+
+body {
+  background-color: #E4E9FD;
+  background-image: -webkit-linear-gradient(50deg, #88838c 25%, #E4E9FD 40%);
+  min-height: 1000px;
+  font-family: 'helvetica neue';
+}
+
+@media only screen and (max-width: 768px){
+  body {
+    background-color: #E4E9FD;
+    background-image: -webkit-linear-gradient(100deg,  #88838c 25%, #E4E9FD 80%);
+    min-height: 1000px;
+    font-family: 'helvetica neue';
+  }
+}
+
